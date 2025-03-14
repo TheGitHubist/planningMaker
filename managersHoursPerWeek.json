@@ -1,0 +1,19 @@
+{
+    "managers":[
+        {
+            "name": "Khadila",
+            "last_name": "Berrehou",
+            "hours per week": 35
+        },
+        {
+            "name": "Ludivine",
+            "last_name": "Darrieutoit",
+            "hours per week": 35
+        },
+        {
+            "name": "Marielle",
+            "last_name": "Guillemot",
+            "hours per week": 35
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "mornday": {
+        "morning": 4,
+        "night": 5
+    },
+    "tuesday": {
+        "morning": 4,
+        "night": 6
+    },
+    "wednesday": {
+        "morning": 4,
+        "night": 6
+    },
+    "thursday": {
+        "morning": 3,
+        "night": 5
+    },
+    "friday": {
+        "morning": 4,
+        "night": 6
+    },
+    "saturday": {
+        "morning": 3,
+        "night": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "dayShift" : {
+        "start" : "06:00",
+        "end" : "13:45"
+    },
+    "middleShift" : {
+        "start" : "10:00",
+        "end" : "17:45"
+    },
+    "nightShift" : {
+        "start" : "12:15",
+        "end" : "20:00"
+    }
+}
