@@ -3,67 +3,80 @@
         {
             "name": "Beatrice",
             "last_name": "Lacoste",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "only night"
         },
         {
             "name": "Constance",
             "last_name": "Broussard",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "None"
         },
         {
             "name": "Dilek",
             "last_name": "Duran",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "None"
         },
         {
             "name": "Fanny",
             "last_name": "Langelotti",
-            "hours per week": 30
+            "hours_per_week": 30,
+            "exception" : "None"
         },
         {
             "name": "Jade",
             "last_name": "Lheritier",
-            "hours per week": 24
+            "hours_per_week": 24,
+            "exception" : "None"
         },
         {
             "name": "Manon",
             "last_name": "Gimenez-Gliny",
-            "hours per week": 24
+            "hours_per_week": 24,
+            "exception" : "None"
         },
         {
             "name": "Margarita",
-            "last_name": "Cazauraing",
-            "hours per week": 35
+            "last_name": "Cazaurang",
+            "hours_per_week": 35,
+            "exception" : "only day"
         },
         {
             "name": "Marie Claude",
             "last_name": "Brissac",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "prio Night"
         },
         {
             "name": "Naomi",
             "last_name": "Salvador",
-            "hours per week": 30
+            "hours_per_week": 30,
+            "exception" : "None"
         },
         {
             "name": "Philippe",
             "last_name": "Champilou",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "None"
         },
         {
             "name": "Pierre",
             "last_name": "Jaffre",
-            "hours per week": 35
+            "hours_per_week": 35,
+            "exception" : "None"
         },
         {
             "name": "Sophie",
             "last_name": "Boutroy",
-            "hours per week": 24
+            "hours_per_week": 24,
+            "exception" : "None"
         },
         {
             "name": "Soundati",
             "last_name": "Assani",
-            "hours per week": 24
+            "hours_per_week": 24,
+            "exception" : "None"
         }
     ]
 }

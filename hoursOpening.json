@@ -10,5 +10,13 @@
     "nightShift" : {
         "start" : "12:15",
         "end" : "20:00"
+    },
+    "partDayShift" : {
+        "start" : "06:00",
+        "end" : "12:00"
+    },
+    "partNightShift" : {
+        "start" : "13:30",
+        "end" : "20:00"
     }
 }
